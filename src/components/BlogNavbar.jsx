@@ -11,7 +11,7 @@ const BlogNavbar = () => {
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="/">Add Post</a>
+        <a class="nav-link active" aria-current="page" href="/Add">Add Post</a>
         <a class="nav-link" href="/ViewAll">View All Posts</a>
         
       </div>
